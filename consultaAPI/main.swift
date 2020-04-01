@@ -8,9 +8,8 @@
 
 import Foundation
 
-
-
-print("\t \t \t Bem vindo ao seu terminal de investimentos")
+print("\t \t \t \t Bem vindo, eu so Heimer")
+print("\t \t \t e esse é seu terminal de investimentos")
 menu()
 
 
